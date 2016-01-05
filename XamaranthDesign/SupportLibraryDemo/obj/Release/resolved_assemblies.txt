@@ -1,0 +1,10 @@
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\SupportLibraryDemo.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\Mono.Android.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\mscorlib.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\System.Core.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\System.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\Xamarin.Android.Support.v7.CardView.dll
+E:\xamarin\XamaranthDesign\SupportLibraryDemo\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll

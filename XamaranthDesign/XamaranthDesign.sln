@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamaranthDesign", "XamaranthDesign\XamaranthDesign.csproj", "{8812D00F-176E-4AA0-B067-AF102F5ED116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupportLibraryDemo", "SupportLibraryDemo\SupportLibraryDemo.csproj", "{AC832769-7589-4D58-83F6-31249D873696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapeLoadingViewCSharp", "ShapeLoadingViewCSharp\ShapeLoadingViewCSharp.csproj", "{966735B2-5E70-43C2-A98B-C78C098FE78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleImageViewXamarin", "CircleImageViewXamarin\CircleImageViewXamarin.csproj", "{92DF9036-248A-4C5A-80E0-4A80060E4EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8812D00F-176E-4AA0-B067-AF102F5ED116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8812D00F-176E-4AA0-B067-AF102F5ED116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8812D00F-176E-4AA0-B067-AF102F5ED116}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8812D00F-176E-4AA0-B067-AF102F5ED116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8812D00F-176E-4AA0-B067-AF102F5ED116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8812D00F-176E-4AA0-B067-AF102F5ED116}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{AC832769-7589-4D58-83F6-31249D873696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC832769-7589-4D58-83F6-31249D873696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC832769-7589-4D58-83F6-31249D873696}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AC832769-7589-4D58-83F6-31249D873696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC832769-7589-4D58-83F6-31249D873696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC832769-7589-4D58-83F6-31249D873696}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{966735B2-5E70-43C2-A98B-C78C098FE78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966735B2-5E70-43C2-A98B-C78C098FE78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{966735B2-5E70-43C2-A98B-C78C098FE78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{966735B2-5E70-43C2-A98B-C78C098FE78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DF9036-248A-4C5A-80E0-4A80060E4EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DF9036-248A-4C5A-80E0-4A80060E4EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DF9036-248A-4C5A-80E0-4A80060E4EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DF9036-248A-4C5A-80E0-4A80060E4EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

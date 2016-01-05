@@ -1,0 +1,6 @@
+<RelativeLayout android:layout_width="match_parent" android:layout_height="192dp" android:background="?attr/colorPrimaryDark" android:orientation="vertical" android:padding="16dp" android:theme="@style/ThemeOverlay.AppCompat.Dark" xmlns:android="http://schemas.android.com/apk/res/android"><TextView android:id="@+id/id_link" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_marginBottom="16dp" android:text="测试测试测试测试测试测试测试测试" /><TextView android:id="@+id/id_username" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_above="@id/id_link" android:text="测试姓名" /><de.hdodenhof.circleimageview.CircleImageView android:layout_width="100dp" android:layout_height="100dp" android:layout_above="@+id/image" android:layout_marginBottom="5dp" android:src="@drawable/cheese_1" /><!--<ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_above="@+id/image"
+        android:layout_marginBottom="5dp"
+        android:src="@drawable/cheese_1" />--></RelativeLayout>

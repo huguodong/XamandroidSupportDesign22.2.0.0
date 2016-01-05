@@ -1,0 +1,2 @@
+Layout/WelcomeActivity.axml;layout/welcomeactivity.xml
+Values/Strings.xml;values/strings.xml

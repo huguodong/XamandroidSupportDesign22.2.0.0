@@ -1,0 +1,13 @@
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Cheesesquare.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Mono.Android.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\mscorlib.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\System.Core.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\System.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\System.Xml.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Xamarin.Android.Support.Design.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Xamarin.Android.Support.v7.CardView.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\xamarin\xamandroidsupportdesign-22.2.0.0\xamandroidsupportdesign-22.2.0.0\samples\Cheesesquare\obj\Debug\assemblies\System.ServiceModel.Internals.dll

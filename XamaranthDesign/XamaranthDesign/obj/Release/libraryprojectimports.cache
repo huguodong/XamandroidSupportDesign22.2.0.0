@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>E:\xamarin\XamaranthDesign\XamaranthDesign\obj\Release\__library_projects__\NSACL\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>E:\xamarin\XamaranthDesign\XamaranthDesign\obj\Release\__library_projects__\ShapeLoadingViewCSharp\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>E:\xamarin\XamaranthDesign\XamaranthDesign\obj\Release\__library_projects__\NSACL\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>E:\xamarin\XamaranthDesign\XamaranthDesign\obj\Release\__library_projects__\ShapeLoadingViewCSharp\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>E:\xamarin\XamaranthDesign\XamaranthDesign\obj\Release\__library_projects__\NSACL.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>E:\xamarin\XamaranthDesign\XamaranthDesign\obj\Release\__library_projects__\ShapeLoadingViewCSharp.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

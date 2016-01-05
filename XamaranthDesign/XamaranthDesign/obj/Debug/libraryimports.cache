@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <ManifestDocuments />
+  <NativeLibraries />
+  <Jars>
+    <Jar>obj\Debug\__library_projects__\CircleImageViewXamarin\library_project_imports\image.jar</Jar>
+    <Jar>obj\Debug\__library_projects__\XamarinHighLightBind\library_project_imports\XamarinHighLight.jar</Jar>
+  </Jars>
+</Paths>

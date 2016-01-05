@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SupportLibraryDemo.SupportLibraryDemo" android:versionCode="1" android:versionName="1.0">
+  <uses-sdk android:minSdkVersion="11" />
+  <application android:label="SupportLibraryDemo" android:icon="@drawable/icon" android:theme="@style/AppTheme" android:name="mono.android.app.Application">
+    <activity android:label="Demo" android:name="md59eb7cf786c2d7be19c106a5bb068b8c2.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="SubActivity" android:name="md59eb7cf786c2d7be19c106a5bb068b8c2.SubActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="SupportLibraryDemo.SupportLibraryDemo.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

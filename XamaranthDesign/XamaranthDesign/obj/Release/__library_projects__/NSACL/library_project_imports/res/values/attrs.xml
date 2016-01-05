@@ -1,0 +1,1 @@
+<resources><declare-styleable name="CircleImageView"><attr name="border_width" format="dimension"></attr><attr name="border_color" format="color"></attr></declare-styleable></resources>

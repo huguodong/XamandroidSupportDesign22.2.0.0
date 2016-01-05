@@ -1,0 +1,5 @@
+E:\xamarin\XamaranthDesign\CircleImageViewXamarin\bin\Release\CircleImageViewXamarin.dll
+E:\xamarin\XamaranthDesign\CircleImageViewXamarin\bin\Release\CircleImageViewXamarin.pdb
+E:\xamarin\XamaranthDesign\CircleImageViewXamarin\obj\Release\CircleImageViewXamarin.csprojResolveAssemblyReference.cache
+E:\xamarin\XamaranthDesign\CircleImageViewXamarin\obj\Release\CircleImageViewXamarin.dll
+E:\xamarin\XamaranthDesign\CircleImageViewXamarin\obj\Release\CircleImageViewXamarin.pdb
