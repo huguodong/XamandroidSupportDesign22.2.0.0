@@ -1,5 +1,10 @@
 **NOTE:** This is a port of the original Cheesesquare Sample by Chris Banes, available on GitHub: https://github.com/chrisbanes/cheesesquare
 
+google官方的UI库，里面有2个项目
+===========================
+#一个是官方的，还有一个是在这基础上写的
+
+
 ![Screenshot](https://raw.githubusercontent.com/xamarin/monodroid-samples/master/android5.0/Cheesesquare/screenshot.png)
 
 Cheesesquare Sample
